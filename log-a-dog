@@ -1,1 +1,0 @@
-git config --global alias.lol 'log --all --decorate --oneline --graph'

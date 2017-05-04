@@ -6,7 +6,7 @@
  * [How to fix](http://justinhileman.info/article/git-pretty/) your **`git`** mistakes. Not that you'd ever make any
  * [An in-browser, **`git`** intro](https://try.github.io) for friends and co-workers starting **`git`**
  * [Scott Chacon's ProGit book](https://git-scm.com/book/en/v2). Read it and learn. I bought a copy, even though it's free.
- * [Other Git commands maybe not tolearn](https://git-man-page-generator.lokaltog.net/)
+ * [Other Git commands to learn](https://git-man-page-generator.lokaltog.net/). Well, okay, maybe not, but worth looking at anyway.
 ---
 
 #### Great non-gratis git goo
